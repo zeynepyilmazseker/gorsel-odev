@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = gorselodev
+build_property.ProjectDir = /Users/zeynepyilmaz/Projects/gorselodev/gorselodev/
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/KrediHesaplama.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.KrediHesaplama.xaml
+build_metadata.AdditionalFiles.TargetPath = KrediHesaplama.xaml
+build_metadata.AdditionalFiles.RelativePath = KrediHesaplama.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/RenkSecici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.RenkSecici.xaml
+build_metadata.AdditionalFiles.TargetPath = RenkSecici.xaml
+build_metadata.AdditionalFiles.RelativePath = RenkSecici.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/VucutKitleIndeksi.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.VucutKitleIndeksi.xaml
+build_metadata.AdditionalFiles.TargetPath = VucutKitleIndeksi.xaml
+build_metadata.AdditionalFiles.RelativePath = VucutKitleIndeksi.xaml
+
+[/Users/zeynepyilmaz/Projects/gorselodev/gorselodev/Yapilacaklar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gorselodev.Yapilacaklar.xaml
+build_metadata.AdditionalFiles.TargetPath = Yapilacaklar.xaml
+build_metadata.AdditionalFiles.RelativePath = Yapilacaklar.xaml
